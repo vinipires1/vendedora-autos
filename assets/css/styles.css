@@ -1,0 +1,112 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.a-itens{
+    text-transform: uppercase;
+    text-decoration: none;
+    color: white;
+}
+
+.a-itens:hover{
+    color: rgb(207, 57, 57);
+    transition: ease 0.5s;
+}
+
+.head{ 
+    background-color: black;
+    padding: 20px;
+}
+
+.head-nav{
+    text-align: right;
+    word-spacing: 10px;
+}
+
+.image-logo{
+    max-width: 150px;
+    padding: 0;
+    float: left;
+}
+
+.sec-info{
+    text-align: center;
+    text-transform: uppercase;
+    padding: 40px;
+    background-color: white;
+}
+
+.div-carros{
+    margin-left: 50px;
+    margin-right: 50px;
+    display: flex;
+}
+
+.carro-lambo{
+    max-width: 200px;
+    border-radius: 50px;
+    margin-right: 50px;
+    object-fit: cover;
+}
+
+.carro-ferrari{
+    max-width: 200px;
+    border-radius: 50px;
+    margin-right: 50px;
+}
+
+.carro-porshe{
+    max-width: 200px;
+    border-radius: 50px;
+    margin-right: 50px;
+}
+
+.div-info{
+    padding: 30px;
+    background-color: black;
+    margin: 0;
+    margin-top: 40px;
+}
+
+.div-motos{
+    padding-bottom: 30px;
+    background-color: black;
+    padding-left: 50px;
+}
+
+.h-moto{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.moto-1{
+    max-width: 200px;
+    border-radius: 50px;
+    margin-right: 50px;
+}
+
+.moto-2{
+    max-width: 200px;
+    border-radius: 50px;
+    margin-right: 50px;
+}
+
+.moto-3{
+    max-width: 200px;
+    border-radius: 50px;
+    margin-right: 50px;
+}
+
+.moto-4{
+    max-width: 200px;
+    border-radius: 50px;
+    margin-right: 50px;
+}
+
+.moto-5{
+    max-width: 200px;
+    border-radius: 50px;
+    margin-right: 50px;
+}
